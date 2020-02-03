@@ -41,4 +41,4 @@ The Output should be:
 
 =================================================
 
-If any question, please don't hesitate to contact me at indra_susanto (at) linkaja (dot) id
+Good Luck!!!
