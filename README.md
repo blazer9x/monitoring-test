@@ -30,14 +30,26 @@ The challenge is to parse the log using Grok Parser, and please generate logstas
 
 The Output should be:
 
- data.uuid: 59bd2e00-465b-11ea-987a-b74a8d671e08<br/>
- data.rt: 999<br/>
- data.port: 65530<br/>
- data.ip: 123.123.123.123<br/>
- data.appli: abcd<br/>
- data.versi: v99<br/>
- data.path: /xx/yy/xyz/aha<br/>
+ Data.uuid: 59bd2e00-465b-11ea-987a-b74a8d671e08<br/>
+ Data.rt: 999<br/>
+ Data.port: 65530<br/>
+ Data.ip: 123.123.123.123<br/>
+ Data.appli: abcd<br/>
+ Data.versi: v99<br/>
+ Data.path: /xx/yy/xyz/aha<br/>
 
+
+=================================================
+
+Question-Three:
+
+Write a program (in any programming language) that prints random number from 1 to 100
+
+=================================================
+
+Question-Four:
+
+How to change the .php file extension in the whole directory (includes subdirectory) inside /var/www/html to .txt
 
 =================================================
 
