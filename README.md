@@ -1,6 +1,6 @@
-# monitoring-test
+# L2 Challenges monitoring-test
 
-Log parsing challenges
+L2 Challenges monitoring-test
 
 =================================================
 
