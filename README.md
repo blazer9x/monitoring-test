@@ -6,6 +6,18 @@ Log parsing challenges
 
 Question-One :
 
+Write a program (in any programming language) that prints random number from 1 to 100.
+
+=================================================
+
+Question-Two:
+
+How to change the .php file extension in the whole directory (includes subdirectory) inside /var/www/html to .txt.
+
+=================================================
+
+Question-Three:
+
 In this repository, please find the sample-1.log.
 The challenge is to parse the log using Grok Parser, and please generate logstash configuration.
 
@@ -20,10 +32,9 @@ Output should be :
  Msisdn : 6281xxxxxxxxx<br/>
  CommandId : PreValConfirmation<br/>
 
-
 =================================================
 
-Question-Two:
+Question-Four:
 
 In this repository, please find the sample-2.log.
 The challenge is to parse the log using Grok Parser, and please generate logstash configuration.
@@ -37,19 +48,6 @@ The Output should be:
  Data.appli: abcd<br/>
  Data.versi: v99<br/>
  Data.path: /xx/yy/xyz/aha<br/>
-
-
-=================================================
-
-Question-Three:
-
-Write a program (in any programming language) that prints random number from 1 to 100
-
-=================================================
-
-Question-Four:
-
-How to change the .php file extension in the whole directory (includes subdirectory) inside /var/www/html to .txt
 
 =================================================
 
