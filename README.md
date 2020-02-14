@@ -12,7 +12,7 @@ Write a program (in any programming language) that prints random number from 1 t
 
 Question-Two:
 
-How to change the .php file extension in the whole directory (includes subdirectory) inside /var/www/html to .txt.
+Please provide a shell-script to list all files in /var/www/html (include subdirectories) with .php extension, find them, then copy them to /opt/html.
 
 =================================================
 
